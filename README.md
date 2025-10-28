@@ -57,42 +57,37 @@ frontend-template/
 
 ## Using This Template from GitHub
 
-If you want to start a new project using this template, you can do it directly from GitHub.
+You can start a new project based on this template by cloning the repository and renaming it.
 
-1. **Open the template repository**
-
-   ```
-   https://github.com/candytale55/frontend-template
-   ```
-
-2. **Click “Use this template” → “Create a new repository”**
-
-   * Name your new project (for example: `mercedes-showcase`).
-   * Keep it public or private as needed.
-
-3. **Clone your new repository**
+1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/<new-repo-name>.git
+   git clone https://github.com/candytale55/frontend-template.git
    ```
 
-4. **Open it in VS Code**
+2. **Rename the folder (optional)**
 
-   * `File → Open Folder...`
-   * Save a new workspace (`File → Save Workspace As…`).
+   ```bash
+   mv frontend-template new-project-name
+   ```
 
-5. **Start developing**
+3. **Open the project in VS Code**
 
-   * Right-click `index.html` → “Open with Live Server”.
-   * Begin customizing your HTML, CSS, and JS files.
+   * Go to `File → Open Folder...`
+   * Save it as a new workspace (`File → Save Workspace As…`)
+
+4. **Start developing**
+
+   * Right-click `index.html` → “Open with Live Server”
+   * Begin editing your HTML, CSS, and JavaScript files
+
+---
 
 ### Advantages
 
-* Create new projects instantly — no manual setup
-* Each new repo has its own clean commit history
-* Maintains consistent structure and coding standards
-* Easy to update or reuse in the future
-
+* Quick setup — ready to start coding immediately
+* Clean and consistent project structure
+* Easy to reuse for multiple projects
 ---
 
 ## Customization Tips
@@ -115,4 +110,5 @@ You may freely modify and use this template for personal, educational, or profes
 
 Developed by **CandyTale55**  
 Built for clean, consistent, and accessible front-end development.
+
 
